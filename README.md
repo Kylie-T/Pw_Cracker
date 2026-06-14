@@ -1,2 +1,2 @@
 # Pw_Cracker
-Checks the strength of a password
+Uses Rockyou text file to crack password
